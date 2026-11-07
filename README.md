@@ -1,9 +1,9 @@
 <<<<<<< HEAD
-# Alaotra Rain V5
+# Alaotra Rain 
 
 Application Streamlit interactive pour l'analyse des précipitations, la comparaison de modèles Machine Learning et l'aide à la décision rizicole dans la région Alaotra-Mangoro.
 
-## Nouveautés V5
+## Nouveautés
 
 - Logo officiel de la région au-dessus du titre **ALAOTRA RAIN**.
 - Import CSV obligatoire avant toute analyse.
@@ -52,7 +52,7 @@ L'application détecte automatiquement la structure et la transforme en format e
 
 Les prévisions restent expérimentales et doivent être complétées avec les observations de terrain, les services techniques agricoles et les bulletins météorologiques officiels.
 
-## V6 — prévisions multi-années corrigées
+## — prévisions multi-années corrigées
 
 La prévision est désormais réellement récursive entre les années. Si les observations se terminent en 2025 et que l'utilisateur choisit 2028, l'application calcule 2026, puis utilise ces prédictions pour 2027, puis celles de 2027 pour 2028. L'interface affiche également une comparaison des années intermédiaires et un avertissement d'incertitude qui augmente avec l'horizon.
 =======
